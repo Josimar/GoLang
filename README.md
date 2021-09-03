@@ -1,3 +1,7 @@
+[![codecov](https://codecov.io/gh/Josimar/GoLang/branch/main/graph/badge.svg?token=YCBEFM82RQ)](https://codecov.io/gh/Josimar/GoLang)
+
+[![CircleCI](https://circleci.com/gh/Josimar/GoLang/tree/main.svg?style=svg)](https://circleci.com/gh/Josimar/GoLang/tree/main)
+
 # GoLang
 
 First application with GoLang

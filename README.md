@@ -29,7 +29,6 @@ go get github.com/urfave/cli
 
 
 # 23 - Banco de Dados
-
 ## Acessa o diretório criado
 
 ## cria um novo go.mod
@@ -40,3 +39,17 @@ go get github.com/go-sql-driver/mysql
 
 ## rodar o script
 go run banco-de-dados.go
+
+# 24 - CRUD Basico
+## Acessa o diretório criado
+
+## cria um novo arquivo
+go mod init crud
+
+create file: main.go
+
+## Package gorilla/mux implements a request router and dispatcher for matching incoming requests to their respective handler.
+go get github.com/gorilla/mux
+
+## rodar o script
+go run main.go
